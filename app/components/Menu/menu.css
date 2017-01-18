@@ -1,0 +1,48 @@
+.dashboardMenuContainer {
+	padding: 0 !important;
+	background-color: #DADDE4 !important;
+}
+
+.headerLine {
+	background-color: #3C91CD !important;
+	border: none !important;
+	height: 40px;
+}
+
+.dashboardHeaderText {
+	padding-left: 45px;
+	font-size: 22px;
+	color: #4E5460;
+	font-weight: bold;
+}
+
+.menuFirstItem {
+	margin-top: 20px !important;
+}
+
+.dashboardMenuItemsContainer {
+	margin-top: 20px !important;
+}
+
+.menuItem {
+	padding-left: 45px !important;
+	font-size: 16px !important;
+	color: #4E5460 !important;
+}
+
+.menuItem.active.item {
+	background-color: #ECEFF3 !important;
+	padding-right: 0 !important;
+}
+
+.menuItem.active.item::after {
+	content: "";
+	width: 0;
+	height: 0;
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent;
+	float: right;
+	border-right: 10px solid #388ECB;
+}
+
+

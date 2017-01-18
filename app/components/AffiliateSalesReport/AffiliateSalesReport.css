@@ -1,0 +1,106 @@
+.chartContainerHeaderText {
+	color: #2C83CB !important;
+	font-weight: bold !important;
+	font-family: sans-serif !important;
+	padding-left: 20px !important;
+}
+
+.headerListItem {
+	margin: 0 !important;
+	padding: 0 7px !important;
+	border-right: 1px solid black !important;
+	font-weight: bold !important;
+}
+
+.headerListLastItem {
+	margin: 0 !important;
+	padding: 0 7px !important;
+	font-weight: bold !important;
+}
+
+.headerListContainer {
+	margin-left: 20px !important;
+}
+
+.headerListItem:visited,
+.headerListLastItem:visited {
+	color: black !important;
+}
+
+.headerListItem:hover,
+.headerListLastItem:hover {
+	color: black !important;
+}
+
+.addNewButton {
+	margin-left: 15px !important;
+}
+
+.dropDownList {
+	min-width: 115px !important;
+	padding: 6px !important;
+	min-height: 30px !important;
+}
+
+.dropDownListIcon {
+	margin: 0 !important;
+	padding: 0 !important;
+	vertical-align: text-top !important;
+	font-size: 25px !important;
+	color: #A9B3BA !important;
+}
+
+.paginationContainer {
+	float: right !important;
+	background: transparent !important;
+	border: none !important;
+	box-shadow: none !important;
+	margin-right: 30px !important;
+}
+
+.secondRowContainer {
+	margin-top: 10px;
+}
+
+.paginationNumber {
+	cursor: pointer !important;
+}
+
+.paginationIcon {
+	background-color: #A9B3BA !important;
+	color: #CDD2D4 !important;
+	padding: 3px !important;
+	font-size: 20px !important;
+	min-width: 30px !important;
+	cursor: pointer !important;
+}
+
+.paginationIcon > i {
+	margin: 0 auto !important;
+}
+
+.paginationItem {
+	margin: 0 4px !important;
+	max-height: 30px;
+	max-width: 30px;
+	border-radius: 3px !important;
+}
+.paginationItem:hover {
+	opacity: 0.7 !important;
+}
+
+.paginationNumber {
+	background-color: white !important;
+}
+
+.paginationItem.disabledPaginationItem {
+	border: none !important;
+	padding: 3px !important;
+}
+.tableContainer{
+	margin-top: 0 !important;
+}
+.tableBody{
+	color: #2C83CB !important;
+	font-weight: bold !important;
+}

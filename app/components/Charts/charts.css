@@ -1,0 +1,11 @@
+.chartsContainer {
+	width: 100% !important;
+	border: none !important;
+	padding: 0 !important;
+	background-color: #CDD2D4 !important;
+}
+
+.chartContainer {
+	width: 96% !important;
+	margin: 50px auto 20px auto !important;
+}
